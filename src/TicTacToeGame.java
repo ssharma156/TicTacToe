@@ -1,6 +1,7 @@
 package TicTacToeProject;
 import java.util.Scanner;
 
+/* This class represents the game */
 public class TicTacToeGame {
 	static TicTacToeBoard board = new TicTacToeBoard();
 	static Player player1;
