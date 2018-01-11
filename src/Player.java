@@ -1,5 +1,6 @@
 package TicTacToeProject;
 
+/* A model class to define structure of a Player object */
 public class Player {
 	private char mark;
 	private String name;
